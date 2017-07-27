@@ -1,7 +1,6 @@
 package com.cbitss.careforu;
 
 import android.content.Context;
-import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -76,7 +75,7 @@ public class HealthTips extends Fragment {
         w.getSettings().getLoadsImagesAutomatically();
         w.getSettings().getJavaScriptEnabled();
         w.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
-        w.loadUrl("http://www.gkfacts.in/search/label/Health");
+        w.loadUrl("http://www.gkfacts.in/search/label/Health Tips");
         //w.loadUrl("https://www.google.co.in/");
         return v;
     }

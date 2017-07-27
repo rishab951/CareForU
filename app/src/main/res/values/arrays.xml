@@ -3,7 +3,7 @@
     <string-array name="time_unit">
         <item>hours</item>
         <item>days</item>
-        <item>weeks</item>
+
     </string-array>
     <string-array name="interval">
         <item>1</item>

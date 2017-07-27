@@ -1,8 +1,17 @@
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h2 style="text-align: left;">
-Care For U<!--more--></h2>
+Care For U</h2>
 <div style="text-align: left;">
-<i>A complete health care app with elegant GUI and following features : customized Medicine Reminder, daily health tips, information about nearby hospitals with navigation, complete information regarding a medicine or salt and first aid tips. First aid tips are fetched from remote database with 'save offline' feature for emergency.&nbsp;&nbsp;</i></div>
+<i>A complete health care app with elegant GUI and following features : customized Medicine Reminder, daily health tips, information about nearby hospitals with navigation, complete information regarding a medicine or salt and first aid tips. First aid tips are fetched from remote database with 'save offline' feature for emergency.&nbsp;&nbsp;</i><br />
+<br />
+<h3 style="text-align: left;">
+<i>Installing</i></h3>
+<i> To install the app, just download the apk for Android <a href="https://github.com/rishab951/CareForU/releases/download/v1.0.0/Care.For.U_1.0.apk" target="_blank">from here</a>. </i><br />
+<i><br /></i>
+<h3 style="text-align: left;">
+<i>Screenshots</i></h3>
+<i></i><br />
+<!--more--><i><br /></i></div>
 <br />
 <i><b>Splash Screen</b></i><br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -18,7 +27,7 @@ Care For U<!--more--></h2>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-Home Page</div>
+<i><b>Home Page</b></i></div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-Ui8H0icCYWw/WXpEmnvO-vI/AAAAAAAAC5E/nHGw8DqurGYRABMOG8WIzhpPWm2hC6tuACEwYBhgL/s1600/Screenshot%2B%25285%2529.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="400" src="https://1.bp.blogspot.com/-Ui8H0icCYWw/WXpEmnvO-vI/AAAAAAAAC5E/nHGw8DqurGYRABMOG8WIzhpPWm2hC6tuACEwYBhgL/s400/Screenshot%2B%25285%2529.png" width="225" />&nbsp;</a></div>
 <div class="separator" style="clear: both; text-align: center;">

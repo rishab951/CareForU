@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_first_aid_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.cbitss.careforu.FirstAidContent">
+    
+    <android.support.v7.widget.Toolbar
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:minHeight="?attr/actionBarSize"
+        android:id="@+id/fac_toolbar"
+        android:background="@color/color10">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_arrow_back_black_24dp"
+            android:id="@+id/back_button"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            android:id="@+id/save_offline"
+            android:layout_gravity="right"
+            android:background="@color/color10"
+            android:text="Save Offline"
+            android:textColor="#FFFFFF"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Check"
+            android:paddingLeft="15dp"
+            android:textSize="18sp"
+            android:id="@+id/fac_title"
+            android:textStyle="bold"
+            android:textColor="#ffffff" />
+
+    </android.support.v7.widget.Toolbar>
+
+
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fcontent_web"/>
+
+
+
+</LinearLayout>

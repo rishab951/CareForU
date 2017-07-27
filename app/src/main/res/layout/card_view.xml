@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp">
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    card_view:cardUseCompatPadding="true"
+    android:layout_height="125dp"
+    android:id="@+id/card">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/grey"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:layout_margin="20dp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:scaleType="fitXY"
+            android:id="@+id/ftips_image"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/ftips_image"
+            android:textColor="@color/red"
+            android:text="Title"
+            android:textSize="20dp"
+
+            android:id="@+id/ftips_title"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Content"
+            android:layout_toRightOf="@id/ftips_image"
+            android:layout_below="@+id/ftips_title"
+            android:id="@+id/ftips_content"
+            />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
+</LinearLayout>

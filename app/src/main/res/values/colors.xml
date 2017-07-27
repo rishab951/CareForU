@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00695c</color>
+    <color name="color0">#ebf5f5</color>
+    <color name="color1">#e0f2f1</color>
+    <color name="color2">#b2dfdb</color>
+    <color name="color3">#80cbc4</color>
+    <color name="color4">#4db6ac</color>
+    <color name="color5">#26a69a</color>
+    <color name="color6">#009688</color>
+    <color name="color7">#00897b</color>
+    <color name="color8">#00796b</color>
+    <color name="color9">#004d40</color>
+    <color name="color10">#009688</color>
+    <color name="colorAccent">#990000</color>
+
+    <color name="colorPrimaryp">#7036b7</color>
+    <color name="colorPrimaryDarkp">#6a1b9a</color>
+    <color name="colorp1">#f3e5f5</color>
+    <color name="colorp2">#e1bee7</color>
+    <color name="colorp3">#ce93d8</color>
+    <color name="colorp4">#ba68c8</color>
+    <color name="colorp5">#ab47bc</color>
+    <color name="colorp6">#9c27b0</color>
+    <color name="colorp7">#8e24aa</color>
+    <color name="colorp8">#7b1fa2</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="red">#990000</color>
+    <color name="grey">#F5F5F5</color>
+    <color name="colorp9">#6a1b9a</color>
+    <color name="colorp10">#4a148c</color>
+    <color name="colorp">#7036b7</color>
+
+    <color name="colorAccent1">#ea80fc</color>
+    <color name="colorAccent2">#e040fb</color>
+    <color name="colorAccent3">#d500f9</color>
+    <color name="colorAccentp">#aa00ff</color>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_medrem"
+            android:icon="@drawable/ic_watch_later_black_24dp"
+            android:title="Med Reminder" />
+
+        <item
+            android:id="@+id/nav_healthtips"
+            android:icon="@drawable/ic_note_add_black_24dp"
+            android:title="Health Tips" />
+        <item
+            android:id="@+id/nav_medinfo"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Know your medicine" />
+
+        <item
+            android:id="@+id/nav_firstaid"
+            android:icon="@drawable/ic_local_hospital_black_24dp"
+            android:title="First Aid Tips" />
+
+        <item
+            android:id="@+id/nav_hosp"
+            android:icon="@drawable/ic_add_location_black_24dp"
+            android:title="Nearby Hospitals" />
+
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_chgname"
+                android:icon="@drawable/ic_edit_black_24dp"
+                android:title="Change Name" />
+
+            <item
+                android:id="@+id/nav_abtus"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About Us" />
+
+        </menu>
+    </item>
+
+</menu>

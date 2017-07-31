@@ -6,7 +6,7 @@
 <br />
 <h3 style="text-align: left;">
 <i>Installing</i></h3>
-<i> To install the app, just download the apk for Android <a href="https://github.com/rishab951/CareForU/releases/download/v1.0.0/Care.For.U_1.0.apk" target="_blank">from here</a>. </i><br />
+<i> To install the app, just download the apk for Android <a href="https://github.com/rishab951/CareForU/releases/download/v1.0.0/CareForU.apk" target="_blank">from here</a>. </i><br />
 <i><br /></i>
 <br />
 <h3 style="text-align: left;">
